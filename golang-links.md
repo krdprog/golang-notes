@@ -23,3 +23,4 @@
 - Go to guide (eng) - https://yourbasic.org/golang/
 - Go patterns (eng) - https://github.com/tmrts/go-patterns
 - The little Go book (eng) - https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md
+- Effective Go (eng) - https://golang.org/doc/effective_go.html
