@@ -6,6 +6,7 @@
 - Сайт по golang, курсы (rus) - https://golangs.org/
 - Введение в программирование на Go (rus) - http://golang-book.ru/
 - Golang записи - https://golang-blog.blogspot.com/p/go-essentials.html
+- The little Go book (rus) - https://github.com/sefus/the-little-go-book/blob/master/ru/go.md
 
 ### ENGLISH:
 - Golang documentation (eng) - https://golang.org/doc/
@@ -21,3 +22,4 @@
 - Golang Tutorial: from zero to hero (eng) - https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/
 - Go to guide (eng) - https://yourbasic.org/golang/
 - Go patterns (eng) - https://github.com/tmrts/go-patterns
+- The little Go book (eng) - https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md
